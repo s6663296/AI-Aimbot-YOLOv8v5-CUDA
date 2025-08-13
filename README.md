@@ -1,5 +1,4 @@
-# AI AIMBOT by Sudaneseboy
-
+# AI AIMBOT YOLOv8 + YOLOv5
 這是一個基於 YOLOv5/v8 的 AI 輔助瞄準工具，使用 PyQt6 建構圖形化使用者介面。
 
 ## 主要功能
