@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="images/UI.png" alt="程式介面" width="300">
-  <img src="images/YOLO.png" alt="YOLO預覽" width="600">
+  <img src="images/YOLO.png" alt="YOLO預覽" width="300">
 </p>
 
 ## 系統需求
