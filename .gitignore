@@ -4,7 +4,5 @@
 # Logs
 logs/
 
-# Models
-*.onnx
 # Python cache
 __pycache__/
