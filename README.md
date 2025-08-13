@@ -24,7 +24,9 @@
 
 ## 程式介面預覽
 
-<img src="images/UI.png" alt="程式介面" width="600">
+<p align="center">
+  <img src="images/UI.png" alt="程式介面" width="600" height="400">
+</p>
 
 ## 系統需求
 
